@@ -1,0 +1,6 @@
+OrderID,CustomerID,VendedorId,OrderDate,Status
+1001,1,3,2024-01-15,Completado
+1002,2,1,2024-01-16,Pendiente
+1003,3,5,2024-02-01,Completado
+1004,1,2,2024-02-10,Completado
+1005,4,4,2024-03-05,Cancelado

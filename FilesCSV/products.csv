@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Price,Stock
+1,Cafe Premium,Bebidas,250.00,100
+2,Arroz Organico,Alimentos,85.50,200
+3,Frijoles Negros,Alimentos,95.00,150
+4,Aceite de Oliva,Condimentos,320.00,80
+5,Pan Integral,Panaderia,60.00,300

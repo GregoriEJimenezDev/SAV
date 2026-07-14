@@ -1,0 +1,6 @@
+CustomerID,FirstName,LastName,Email,Phone,City,Country,Region
+1,Juan,Perez,juan@email.com,123456789,Santo Domingo,Republica Dominicana,Sur
+2,Maria,Lopez,maria@email.com,987654321,Santiago,Republica Dominicana,Norte
+3,Carlos,Garcia,carlos@email.com,555123456,La Vega,Republica Dominicana,Centro
+4,Ana,Martinez,ana@email.com,555789012,New York,USA,Este
+5,Luis,Rodriguez,luis@email.com,555345678,Santo Domingo,Republica Dominicana,Sur

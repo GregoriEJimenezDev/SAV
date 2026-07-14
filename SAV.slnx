@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SAV.API/SAV.API.csproj" />
+  <Project Path="SAV.application/SAV.application.csproj" />
+  <Project Path="SAV.domain/SAV.domain.csproj" />
+  <Project Path="SAV.persistencia/SAV.persistencia.csproj" />
+  <Project Path="SAV.workerLoad/SAV.workerLoad.csproj" />
+</Solution>
